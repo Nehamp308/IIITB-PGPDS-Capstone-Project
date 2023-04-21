@@ -8,7 +8,10 @@ Now, OList is one such e-commerce company that has faced some losses recently an
 
 ## Project pipeline -
 <b>1. Data exploration and cleaning:</b> Identify missing and duplicate values in each column and treat them accordingly. Also, treat any and all data quality issues associated with the dataset.
+
 <b>2. Data visualisation:</b> Create appropriate visualisations to identify the most ordered products by quantity and revenue.
+
 <b>3. Market basket analysis:</b> Identify combinations of product categories that are ordered frequently and visualise them as required. This can be done by creating a simple matrix with product categories in the rows and columns and then checking which of the pairs show associations.
+
 <b>4. Dashboarding and final PPT:</b> Create a neat dashboard containing the important visualisations and supplement it with an executive summary containing valuable insights and recommended steps of action.
  
